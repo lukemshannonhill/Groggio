@@ -13,10 +13,15 @@ My implementation differs slightly from the reference material linked below. I u
 https://www.youtube.com/watch?v=VO8rTszcW4s&list=PLsk-HSGFjnaH5yghzu7PcOzm9NhsW0Urw
 
 Music Credits:
+
 Caketown: https://opengameart.org/content/caketown-cuteplayful
+
 One: https://opengameart.org/content/one
+
 Happy Tune: https://opengameart.org/content/happy-tune
+
 Enchanted Festival: https://opengameart.org/content/enchanted-festival
+
 Fight them Until we Can't: https://opengameart.org/content/fight-them-until-we-cant
 
 *Fight them Until we Can't will be used in an as yet to debut "Nightmare Difficulty" version of the game, to be unlocked after achieving a sufficiently high score. 
